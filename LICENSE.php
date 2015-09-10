@@ -1,5 +1,5 @@
 <?php
-	echo "Hello GIT";
+	ech "Hello GIT"
 	dffge
 	ergregr
 	echo "hello jenkins"
